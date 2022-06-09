@@ -1,0 +1,16 @@
+.banner {
+    color: black;
+    background-color: brown;
+    text-align: left;
+    border: 2px black;
+    padding: 10px;
+}
+
+.banner-logo {
+    height: 405px;
+    padding-left: 20px;
+}
+
+.banner-title {
+    color: white;
+}
